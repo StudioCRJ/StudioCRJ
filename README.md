@@ -1,10 +1,10 @@
 # Welcome to my GitHub page!
 
-- 👋 Hi, I’m **StudioCRJ**.
-- 👀 I’m interested in 2D animation, digital art, graphic design and typography, and more.
-- 🌱 I’m currently learning Adobe Animate, Discord bot coding in JavaScript, and the Spanish language.
-- 💞️ I’m looking to collaborate on the HCCC Discord bot, STUDBLOB.
-- 📫 How to reach me: https://studiocrj.carrd.co/#social
+- 👋 Hi, I’m **Carter**.
+- 👀 I’m interested in animation, graphic design, digital art, and more.
+- 🌱 I’m currently learning Adobe’s Creative Cloud suite, Spanish, and how to be an adult.
+- 💞️ I’m looking to collaborate on whatever interests me… I guess.
+- 📫 How to reach me: https://studiocrj.crd.co
 
 <!---
 StudioCRJ/StudioCRJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
